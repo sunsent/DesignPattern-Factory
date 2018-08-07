@@ -1,6 +1,6 @@
 package Product;
 
-public class ConcreteProduct extends Product{
+public class ConcreteProduct1 extends Product{
 
     @Override
     public void method2() {
